@@ -1,0 +1,2 @@
+print("tan")
+print("san")
